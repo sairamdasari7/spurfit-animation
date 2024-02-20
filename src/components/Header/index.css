@@ -1,0 +1,15 @@
+.header {
+    background-color: #3498db; /* Blue background color */
+    color: #fff; /* White text color */
+    padding: 20px; /* Padding around the header */
+  }
+  
+  .header h1 {
+    font-size: 24px; /* Large font size for the heading */
+    font-weight: bold; /* Bold font weight */
+    margin-bottom: 10px; /* Bottom margin for spacing */
+  }
+  
+  .header p {
+    font-size: 14px; /* Smaller font size for the paragraph */
+  }
